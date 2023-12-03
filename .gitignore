@@ -1,0 +1,2 @@
+src/wasm/**/pkg/**/*
+*.DS_Store
